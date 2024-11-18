@@ -1,5 +1,5 @@
 {
-  "name": "string-utils",
+  "name": "string-utilss",
   "version": "1.0.0",
   "description": "A collection of useful string manipulation functions.",
   "main": "dist/index.js", 
