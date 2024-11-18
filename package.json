@@ -1,13 +1,25 @@
 {
   "name": "string-utils",
   "version": "1.0.0",
-  "description": "All you want for strings",
+  "description": "A collection of useful string manipulation functions.",
   "main": "index.js",
   "scripts": {
     "test": "jest --config jest.config.ts"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanvi74/string-utils.git"
+  },
+  "keywords": [
+    "string",
+    "utils",
+    "camelcase",
+    "kebabcase",
+    "snakecase",
+    "string-manipulation"
+  ],
   "author": "tanvi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
