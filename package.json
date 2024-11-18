@@ -2,9 +2,10 @@
   "name": "string-utils",
   "version": "1.0.0",
   "description": "A collection of useful string manipulation functions.",
-  "main": "index.js",
+  "main": "dist/index.js", 
   "scripts": {
-    "test": "jest --config jest.config.ts"
+    "test": "jest",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

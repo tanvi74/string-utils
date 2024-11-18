@@ -9,7 +9,7 @@ import {
     camelToSnake,
     snakeToCamel,
     countOccurrences
-} from './basic.ts';
+} from './basic';
 
 // Importing functions from advanced utilities
 import {
@@ -17,21 +17,21 @@ import {
     removeWhitespace,
     isPalindrome,
     wordCount
-} from './advance.ts';
+} from './advance';
 
 // Importing regex-based utilities
 import {
     extractEmails,
     extractNumbers,
     replaceAll
-} from './regex.ts';
+} from './regex';
 
 // Importing internationalization and formatting utilities
 import {
     normalize,
     slugify,
     toTitleCase,
-} from './i18n.ts';
+} from './i18n';
 
 // Default export: Aggregated utility functions
 export default {

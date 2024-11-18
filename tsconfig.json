@@ -1,8 +1,12 @@
 {
     "compilerOptions": {
-        "types": ["node", "jest"],
-        "allowImportingTsExtensions": true,
+        "target": "es6",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./dist",
+        // "types": ["node", "jest"],
+        // "allowImportingTsExtensions": true,
     },
-    "include": ["src"],
+    "include": ["src/**/*.ts"],
     "exclude": ["node_modules", "build", "dist", "coverage", "jest.config.ts"] 
 }

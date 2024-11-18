@@ -1,0 +1,10 @@
+declare function capitalize(str: string): string;
+declare function reverse(str: string): string;
+declare function truncate(str: string, maxLength: number): string;
+declare function toCamelCase(str: string): string;
+declare function toKebabCase(str: string): string;
+declare function camelAndSnaketoKebabCase(str: string): string;
+declare function camelToSnake(str: string): string;
+declare function snakeToCamel(str: string): string;
+declare function countOccurrences(str: string, substring: string): number;
+export { capitalize, reverse, truncate, toCamelCase, toKebabCase, camelAndSnaketoKebabCase, camelToSnake, snakeToCamel, countOccurrences };

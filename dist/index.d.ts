@@ -1,0 +1,26 @@
+import { capitalize, reverse, truncate, toCamelCase, toKebabCase, camelAndSnaketoKebabCase, camelToSnake, snakeToCamel, countOccurrences } from './basic';
+import { removeSpecialChars, removeWhitespace, isPalindrome, wordCount } from './advance';
+import { extractEmails, extractNumbers, replaceAll } from './regex';
+import { normalize, slugify, toTitleCase } from './i18n';
+declare const _default: {
+    capitalize: typeof capitalize;
+    reverse: typeof reverse;
+    truncate: typeof truncate;
+    toCamelCase: typeof toCamelCase;
+    toKebabCase: typeof toKebabCase;
+    camelAndSnaketoKebabCase: typeof camelAndSnaketoKebabCase;
+    camelToSnake: typeof camelToSnake;
+    snakeToCamel: typeof snakeToCamel;
+    countOccurrences: typeof countOccurrences;
+    removeSpecialChars: typeof removeSpecialChars;
+    removeWhitespace: typeof removeWhitespace;
+    isPalindrome: typeof isPalindrome;
+    wordCount: typeof wordCount;
+    extractEmails: typeof extractEmails;
+    extractNumbers: typeof extractNumbers;
+    replaceAll: typeof replaceAll;
+    normalize: typeof normalize;
+    slugify: typeof slugify;
+    toTitleCase: typeof toTitleCase;
+};
+export default _default;
