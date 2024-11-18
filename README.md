@@ -1,4 +1,4 @@
-# string-utils
+# string-utilss
 
 A collection of useful string manipulation functions for JavaScript/TypeScript. The library provides simple utilities for converting, formatting, and manipulating strings, such as converting between camelCase, kebab-case, snake_case, title case, and more.
 
