@@ -134,12 +134,3 @@ We welcome contributions! To contribute, please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Key Sections:
-- **Installation:** Explains how to install the package using npm or by cloning the repository.
-- **Usage:** Provides basic usage examples of the functions.
-- **Functions:** Lists all available functions with descriptions and examples.
-- **Contributing:** Guidelines for contributing to the project (fork the repo, submit a PR, etc.).
-- **License:** Specifies that the project is licensed under the MIT License.
-
-Make sure to adjust any repository-specific details like contribution guidelines or URLs if needed.
