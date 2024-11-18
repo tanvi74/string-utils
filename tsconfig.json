@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "types": ["node", "jest"],
+        "allowImportingTsExtensions": true,
+    },
+    "include": ["src"],
+    "exclude": ["node_modules", "build", "dist", "coverage", "jest.config.ts"] 
+}
