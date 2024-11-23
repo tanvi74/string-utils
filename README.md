@@ -14,7 +14,7 @@ A collection of useful string manipulation functions for JavaScript/TypeScript. 
 To install the package, use npm:
 
 ```bash
-npm install string-utils
+npm install string-utilss
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ import {
     normalize,
     slugify,
     toTitleCase
-} from 'string-utils';
+} from 'string-utilss';
 
 // Example usage
 const result = toCamelCase('hello world'); 
@@ -127,7 +127,7 @@ We welcome contributions! To contribute, please follow these steps:
 1. **Fork the repository**: Click the "Fork" button at the top of this repository page to create a copy under your GitHub account.
 2. **Clone your fork**: Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/string-utils.git
+   git clone https://github.com/your-username/string-utilss.git
    ```
 
 
